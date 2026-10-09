@@ -20,7 +20,7 @@
         "@iconify-json/material-symbols": "^1.2.94",
         "@iconify-json/mdi": "^1.2.3",
         "@iconify-json/mdi-light": "^1.2.2",
-        "@iconify-json/octicon": "^1.2.37",
+        "@iconify-json/octicon": "^1.2.38",
         "@iconify-json/ph": "^1.2.2",
         "@intlify/unplugin-vue-i18n": "^11.2.5",
         "@lezer/highlight": "^1.2.5",
@@ -313,7 +313,7 @@
 
     "@iconify-json/mdi-light": ["@iconify-json/mdi-light@1.2.2", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-86UV9uyNve8zRFWiPrOrrDp9GDzsZM7plYV/on4VjgLLqXlyriuy541eHZB7LIOzTUyIPVli7QiUpBbTtBhsFw=="],
 
-    "@iconify-json/octicon": ["@iconify-json/octicon@1.2.37", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-bChsJarHR+knEDhm9C4I8yxYmNhed8Ubi8h2PlX7id+tm86KjdOGAHPwDIS+Zo9z5DnsBVJSGR8LtHzhzBu7gA=="],
+    "@iconify-json/octicon": ["@iconify-json/octicon@1.2.38", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-EEct6KazWD8B38nF4r7Vb7Iy4Q4FPhJnHlbn+2QAj1g5I3NM6CsGXSBlDpVc5V6m+Fy2lgvilkKp9H8gznFxrw=="],
 
     "@iconify-json/ph": ["@iconify-json/ph@1.2.2", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-PgkEZNtqa8hBGjHXQa4pMwZa93hmfu8FUSjs/nv4oUU6yLsgv+gh9nu28Kqi8Fz9CCVu4hj1MZs9/60J57IzFw=="],
 
